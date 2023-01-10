@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=icG2oERU
+EXAMCODE=sheepish sheep toktok lasagne 01ab2f
 
 echo ${EXAMCODE}
